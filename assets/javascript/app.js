@@ -5,14 +5,16 @@ $(function(){
 		'Steven Universe',
 		'Gravity Falls',
 		'The Regular Show',
-		'TMNT',
 		'Futurama',
 		'Adventure Time',
 		'Bravest Warriors',
 		'Bee and Puppycat',
 		'Avatar the Last Airbender',
 		'Avatar the Legend of Korra',
-		'Fullmetal Alchemist'
+		'Fullmetal Alchemist',
+		'Archer',
+		'Bob\'s Burgers',
+		'BoJack Horseman'
 	]
 
 	/* Create buttons */
